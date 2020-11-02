@@ -1,4 +1,14 @@
 NOTICE: Importante a la hora de instalar los paquetes, instalar la version de @apollo/client": "^3.0.0", especificacamente
+
+![Screenshot_2](https://user-images.githubusercontent.com/43488840/97837680-b6195c00-1cac-11eb-9043-fd83b3963548.png)
+
+![Screenshot_3](https://user-images.githubusercontent.com/43488840/97837716-cdf0e000-1cac-11eb-9ac8-078ed09f204e.png)
+
+![Screenshot_4](https://user-images.githubusercontent.com/43488840/97837759-e103b000-1cac-11eb-9b42-4d23e4254c07.png)
+
+![Screenshot_5](https://user-images.githubusercontent.com/43488840/97837850-08f31380-1cad-11eb-81d8-ca6403279229.png)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
@@ -41,32 +51,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
