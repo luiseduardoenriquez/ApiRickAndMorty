@@ -69,6 +69,26 @@ body{
     margin-top: -25px;
 }
 
+body::-webkit-scrollbar {
+    width: 8px;     /* Tamaño del scroll en vertical */
+    height: 8px;    /* Tamaño del scroll en horizontal */
+    
+}   
+
+body::-webkit-scrollbar-thumb {
+    background: rgb(165, 29, 29);
+    border-radius: 4px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+    background: #9c0000;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+body::-webkit-scrollbar-thumb:active {
+    background-color: #999999;
+}
+
 
 
 /* .carousel-control-next, .carousel-control-prev{
