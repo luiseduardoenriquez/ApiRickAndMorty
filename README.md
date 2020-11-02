@@ -1,3 +1,5 @@
+NOTICE: Importante a la hora de instalar los paquetes, instalar la version de @apollo/client": "^3.0.0", especificacamente
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
