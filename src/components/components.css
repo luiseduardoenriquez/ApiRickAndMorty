@@ -1,0 +1,77 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.ColorNavbar{
+    background-color: black;
+    position: relative;
+    font-weight: bold;
+}
+
+.Anuncio{
+    background-color: black;
+    height: 360px;
+    width: 100%;
+    
+}
+
+.TextCenter{
+   
+   margin-top: 95px;
+   font-size: 70px;
+   text-align: center;
+   font-weight: 1000;
+   color: white;
+   position: absolute;
+   margin-left: 90px;
+}
+
+.fondoContainer{
+    background-color: black;
+    width: 360px;
+    width: 100%;
+}
+
+.fondo{
+    
+    z-index: 1;
+    opacity: 15%;
+    
+
+    margin-top: -310px;
+    max-height: 450px;
+    min-height: 50px;
+    max-width: 450px;
+    min-width: 50px;
+    
+
+}
+
+.ColorNext{
+    background-color: black;
+}
+
+.ctsize{
+    font-size: 30px;
+    font-weight: 1000;
+}
+
+.TmDescriptionCard{
+    font-size: 20px;
+    font-weight: 1000;
+    margin-top: -5px;
+}
+
+.TmDescriptionCardFixed{
+    font-size: 20px;
+    font-weight: 1000;
+    margin-top: -25px;
+}
+
+
+
+/* .carousel-control-next, .carousel-control-prev{
+    color: black;
+    background-color: black;
+} */
