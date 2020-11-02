@@ -60,8 +60,12 @@ const ObPersonajes = () => {
              {/* <button onClick={() => refetch(setPage(page+1))}>Refetch!</button>  */}
             <div className="container mt-3 ">
                 <div className="row">
-                    <button className="btn btn-block col" onClick={() => refetch(setPage(page-1))} style={{color:"red", fontSize:20, fontWeight: 1000}}><FontAwesomeIcon icon={faArrowAltCircleLeft} color="red" className="mt-1" fixedWidth  /> Atras</button>
+                    { page === 1 ? <p></p> :
+                        <button className="btn btn-block col" onClick={() => refetch(setPage(page-1))} style={{color:"red", fontSize:20, fontWeight: 1000}}><FontAwesomeIcon icon={faArrowAltCircleLeft} color="red" className="mt-1" fixedWidth  /> Atras</button>
+                    }
+                    { page === 34 ? <p></p> :
                     <button className="btn btn-block col" onClick={() => refetch(setPage(page+1))}  style={{color:"red", fontSize:20, fontWeight: 1000}}>Siguiente <FontAwesomeIcon icon={faArrowAltCircleRight} color="red" className="mt-1" fixedWidth  /> </button>
+                    }
                 </div>
             </div>
             <div className="row mt-3">
@@ -103,9 +107,13 @@ const ObPersonajes = () => {
             </div>
             <div className="container mt-3">
                 <div className="row">
+                {   page == 1 ? <p></p> :
                     <button className="btn btn-block col" onClick={() => refetch(setPage(page-1))} style={{color:"red", fontSize:20, fontWeight: 1000}}><FontAwesomeIcon icon={faArrowAltCircleLeft} color="red" className="mt-1" fixedWidth  /> Atras</button>
+                }
+                { page === 34 ? <p></p> :    
                     <button className="btn btn-block col" onClick={() => refetch(setPage(page+1))}  style={{color:"red", fontSize:20, fontWeight: 1000}}>Siguiente <FontAwesomeIcon icon={faArrowAltCircleRight} color="red" className="mt-1" fixedWidth  /> </button>
-                </div>
+                }
+                    </div>
             </div>
         </div>
     )
